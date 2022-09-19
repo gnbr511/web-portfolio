@@ -1,0 +1,60 @@
+body {
+	font-family: 'Kanit', sans-serif;
+	background-color: #28282B;
+}
+.PageFont {
+	font-family: 'Acme', sans-serif;
+	font-size: 5rem;
+}
+.PageFont2 {
+	font-size: 1.3rem;
+}
+.PageFont3 {
+	font-size: 1.5rem;
+}
+.PageFont3-1 {
+	font-family: 'Acme', sans-serif;
+	font-size: 1.5rem;
+}
+.PageFont4 {
+	font-family: 'Acme', sans-serif;
+	font-size: 3rem;
+}
+.nav-bar {
+	background-color: #000000;
+	color: white;
+	font-size: 1.2rem;
+	position: fixed;
+	z-index: 3;
+	width: 100%;
+	height: 6vh;
+}
+a {
+	text-decoration: none!important;
+	color: white;
+}
+a:hover {
+	color: gray;
+}
+main {
+	position: absolute;
+	top: 6vh;
+	width: 100%;
+}
+.card {
+	background-color: #28282B;
+	margin: 10px;
+	border-color: white;
+}
+#esirms {
+	display: none;
+}
+#numbertotext {
+	display: none;
+}
+#era {
+	display: none;
+}
+#carouselcontainer {
+	display: none;
+}
