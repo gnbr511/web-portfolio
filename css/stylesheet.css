@@ -37,6 +37,7 @@ a:hover {
 	color: gray;
 }
 main {
+	height: 94vh;
 	position: absolute;
 	top: 6vh;
 	width: 100%;
